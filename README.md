@@ -1,50 +1,30 @@
-# Welcome to your Expo app 👋
+Pick-N-Dine – Restaurant Table Booking App
+A mobile application that allows users to browse restaurants, check table availability, and book tables online. Built with React Native and Firebase.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Features**
+1) User authentication (sign up / login)
+2) Browse restaurants with details (menu, location)
+3) Real-time table booking & reservation system
+4) Firebase Firestore used for live updates
+5) Simple and user-friendly UI
 
-## Get started
+**Tech Stack**
+Frontend: React Native
+Backend / Database: Firebase (Authentication + Firestore + Cloud Functions)
+Platform: Android & iOS
 
-1. Install dependencies
+**Screenshots**
+![IMG-20250818-WA0001](https://github.com/user-attachments/assets/95276ad9-7325-4dc0-8d33-6357cc363207)
+![IMG-20250818-WA0002](https://github.com/user-attachments/assets/60b2c462-eb6e-472e-acaa-d612288eb9d1)
+![IMG-20250818-WA0003](https://github.com/user-attachments/assets/0aca5aa9-0014-453f-9c43-570d8e4369ed)
+![IMG-20250818-WA0004](https://github.com/user-attachments/assets/e5f44eb8-5406-4946-994c-901c80806f53)
+![IMG-20250818-WA0005](https://github.com/user-attachments/assets/05495e89-2863-4cb6-9dde-0709743bfe40)
+![IMG-20250818-WA0006](https://github.com/user-attachments/assets/536a7f71-0b80-417b-8aa4-f1b42067dc80)
+![IMG-20250818-WA0007](https://github.com/user-attachments/assets/1ebdf955-5872-4ff9-90db-55b7d96a8d24)
+![IMG-20250818-WA0008](https://github.com/user-attachments/assets/b18eef46-e49f-49a5-bc0d-e59824b76168)
+![IMG-20250818-WA0009](https://github.com/user-attachments/assets/54adb00e-6acb-408d-87de-e79fd560076d)
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Future Recommendations**
+Add payment integration for prepaid reservations
+Add table layout visualization (pick specific seat/table)
+Push notifications for special offers
