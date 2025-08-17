@@ -1,5 +1,5 @@
 Pick-N-Dine – Restaurant Table Booking App
-A mobile application that allows users to browse restaurants, check table availability, and book tables online. Built with React Native and Firebase.
+A mobile application that allows users to browse restaurants and book tables online. Built with React Native and Firebase.
 
 **Features**
 1) User authentication (sign up / login)
