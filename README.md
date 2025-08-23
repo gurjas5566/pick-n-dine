@@ -10,6 +10,6 @@ A mobile application that allows users to browse restaurants and book tables onl
 
 **Tech Stack**
 Frontend: React Native
-Backend / Database: Firebase (Authentication + Firestore + Cloud Functions)
+Backend / Database: Firebase (Authentication + Firestore datbase)
 Platform: Android & iOS
 
